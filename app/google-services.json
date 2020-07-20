@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81021717075",
+    "firebase_url": "https://proapp-b587e.firebaseio.com",
+    "project_id": "proapp-b587e",
+    "storage_bucket": "proapp-b587e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81021717075:android:7977478f8ead0d5b4254a6",
+        "android_client_info": {
+          "package_name": "com.proapp.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81021717075-2ebjnqqmj5rbra7d7an487613mld20il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proapp.chat",
+            "certificate_hash": "38d24dbd3eb308bf99568ec30e06d0e6f623920c"
+          }
+        },
+        {
+          "client_id": "81021717075-rn42sbe2q94aj4vb4eti9poe8651nkbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proapp.chat",
+            "certificate_hash": "ac3dac5e7098cadd9d9cbb89796df095a9176ade"
+          }
+        },
+        {
+          "client_id": "81021717075-en1ibk2e9gh0067v8f36a9i2gni020no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proapp.chat",
+            "certificate_hash": "5c0a9cc47456882214902674844dc8c044f4ba1e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Lpr0hZmoem5MRXpY76X9MceLBt6scKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
